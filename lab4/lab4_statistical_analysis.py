@@ -2,7 +2,7 @@
 Lab 4: Statistical Analysis
 Descriptive Statistics and Probability Distributions
 
-Author: [Your Name]
+Author: Aksel Pulas
 Date: November 2025
 
 This script analyzes engineering data using:
